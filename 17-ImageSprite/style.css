@@ -1,0 +1,8 @@
+div{
+    background-color: rosybrown;
+    background-image: url('./1.png');
+    background-repeat: no-repeat;
+    height: 450px;
+    width: 500px;
+    background-position: 0 -450px;
+}

@@ -1,0 +1,9 @@
+.yellow-box{
+    height: 200px;
+    width: 500px;
+    background-color: rosybrown;
+}
+img{
+    width: 500px;
+    filter: opacity(30%);
+}

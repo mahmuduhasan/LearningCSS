@@ -1,0 +1,18 @@
+@font-face {
+  font-family: anything;
+  src: url("./Lobster-Regular.ttf");
+}
+
+h1 {
+  font-weight: 800;
+  /* font-family: "Corinthia", cursive; */
+  font-family: anything;
+}
+
+p {
+  font-size: 30px;
+  /* font-weight: lighter;
+  font-style: italic; */
+  font-variant: small-caps;
+  /* font-family: "Corinthia", cursive; */
+}

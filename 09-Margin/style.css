@@ -1,0 +1,30 @@
+body {
+  border: 5px dotted black;
+}
+
+.div1 {
+  border: 1px solid red;
+}
+
+/* #marg { */
+/* margin-top: 20px;
+  margin-bottom: 50px;
+  margin-left: 60px;
+  margin-right: 10%;
+  margin: 20px;
+  margin: 30px 50px;
+  margin: 20px 40px 60px 80px; */
+/* width: 200px;
+  margin: 20px auto;  */
+/* auto is for automatically center everything*/
+
+/* } */
+/* Margin collapse only work for top-bottom not for right-left. On top-left it will take big number between them and on left-right it will add them and give them margin. */
+
+#marg {
+  margin-top: 40px;
+}
+
+#colsp {
+  margin-bottom: 50px;
+}

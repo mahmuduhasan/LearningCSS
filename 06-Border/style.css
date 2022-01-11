@@ -1,0 +1,15 @@
+.border {
+  /* border-style: solid dashed;
+  border-width: 5px 10px 3px 6px;
+  border-color: aqua red blue green;
+  border: 5px green solid;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: blueviolet;*/
+  border: 5px green solid;
+  /*border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;*/
+  border-radius: 10px 20px 30px 40px;
+}

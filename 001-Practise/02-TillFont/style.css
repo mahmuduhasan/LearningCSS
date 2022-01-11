@@ -1,0 +1,99 @@
+@font-face {
+  font-family: indie;
+  src: url("./fonts/IndieFlower-Regular.ttf");
+}
+
+@font-face {
+  font-family: mark;
+  src: url("./fonts/MontserratAlternates-Light.ttf");
+}
+
+@font-face {
+  font-family: satisfy;
+  src: url("./fonts/Satisfy-Regular.ttf");
+}
+
+@font-face {
+  font-family: amatic;
+  src: url("./fonts/AmaticSC-Regular.ttf");
+}
+
+@font-face {
+  font-family: gloria;
+  src: url("./fonts/GloriaHallelujah-Regular.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(315deg, gray, pink);
+}
+
+.main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hasan {
+  margin: 30px;
+}
+
+.hasan p {
+  margin: 30px;
+  font-size: 30px;
+}
+
+/* 
+font-family: 'Comfortaa', cursive;
+font-family: 'Fuzzy Bubbles', cursive;
+font-family: 'Meow Script', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Teko', sans-serif;
+ */
+
+#mahmud p:nth-child(1) {
+  font-family: "Meow Script", cursive;
+}
+
+#mahmud p:nth-child(2) {
+  font-family: "Comfortaa", cursive;
+}
+
+#mahmud p:nth-child(3) {
+  font-family: "Fuzzy Bubbles", cursive;
+}
+
+#mahmud p:nth-child(4) {
+  font-family: "Pacifico", cursive;
+}
+
+#mahmud p:nth-child(5) {
+  font-family: "Teko", sans-serif;
+}
+
+#sagar p:nth-child(1) {
+  font-family: indie;
+}
+
+#sagar p:nth-child(2) {
+  font-family: mark;
+}
+
+#sagar p:nth-child(3) {
+  font-family: satisfy;
+}
+
+#sagar p:nth-child(4) {
+  font-family: amatic;
+}
+
+#sagar p:nth-child(5) {
+  font-family: gloria;
+}
